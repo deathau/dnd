@@ -1,0 +1,26 @@
+---
+publish: true
+aliases:
+  - Mind Lash
+created: 2026-01-27T14:36:20.432+11:00
+modified: 2026-01-27T15:31:07.828+11:00
+tags:
+  - compendium/src/5e/vgm
+  - item/attunement/required
+  - item/rarity/rare
+  - item/weapon/melee
+cssclasses:
+  - json5e-item
+---
+
+# Mind Lash
+
+_Melee weapon, rare (requires attunement by a mind flayer)_
+
+- **Damage**: 1d4 slashing
+- **Properties**: [Finesse](rules/item-properties.md#Finesse), [Reach](rules/item-properties.md#Reach)
+- **Weight**: 3.0 lbs.
+
+In the hands of any creature other than a [mind flayer](compendium/bestiary/aberration/mind-flayer.md), a mind lash functions as a normal whip. In the hands of an illithid, this magic weapon strips away a creature's will to survive as it also strips away flesh, dealing an extra `dice:2d4|noform|noparens|avg` (`2d4`) psychic damage to any target it hits. Any creature that takes psychic damage from the mind lash must also succeed on a DC 15 Wisdom saving throw or have disadvantage on Intelligence, Wisdom, and Charisma saving throws for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+_Source: Volo's Guide to Monsters p. 81_

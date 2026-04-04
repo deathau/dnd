@@ -1,0 +1,28 @@
+---
+publish: true
+aliases:
+  - Robe of the Archmagi
+created: 2026-01-27T14:36:20.471+11:00
+modified: 2026-01-27T15:31:08.385+11:00
+tags:
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/tier/major
+cssclasses:
+  - json5e-item
+---
+
+# Robe of the Archmagi
+
+_Wondrous item, major, legendary (requires attunement by a sorcerer, warlock, or wizard)_
+
+This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe's color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can't attune to a robe of the archmagi that doesn't correspond to your alignment.
+
+You gain these benefits while wearing the robe:
+
+- If you aren't wearing armor, your base Armor Class is 15 + your Dexterity modifier.
+- You have advantage on saving throws against spell and other magical effects.
+- Your spell save DC and spell attack bonus each increase by 2.
+
+_Source: Dungeon Master's Guide p. 194. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -1,0 +1,24 @@
+---
+publish: true
+aliases:
+  - Cloak of Invisibility
+created: 2026-01-27T14:36:20.380+11:00
+modified: 2026-01-27T15:31:07.756+11:00
+tags:
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/tier/major
+cssclasses:
+  - json5e-item
+---
+
+# Cloak of Invisibility
+
+_Wondrous item, major, legendary (requires attunement)_
+
+While wearing this cloak, you can pull its hood over your head to cause yourself to become [invisible](rules/conditions.md#Invisible). While you are [invisible](rules/conditions.md#Invisible), anything you are carrying or wearing is [invisible](rules/conditions.md#Invisible) with you. You become visible when you cease wearing the hood. Pulling the hood up or down requires an action.
+
+Deduct the time you are invisible, in increments of 1 minute, from the cloak's maximum duration of 2 hours. After 2 hours of use, the cloak ceases to function. For every uninterrupted period of 12 hours the cloak goes unused, it regains 1 hour of duration.
+
+_Source: Dungeon Master's Guide p. 158_

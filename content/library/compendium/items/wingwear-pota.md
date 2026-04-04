@@ -1,0 +1,23 @@
+---
+publish: true
+aliases:
+  - Wingwear
+created: 2026-01-27T14:36:20.534+11:00
+modified: 2026-01-27T15:31:08.996+11:00
+tags:
+  - compendium/src/5e/pota
+  - item/attunement/required
+  - item/rarity/uncommon
+cssclasses:
+  - json5e-item
+---
+
+# Wingwear
+
+_Wondrous item, uncommon (requires attunement)_
+
+This snug uniform has symbols of air stitched into it and leathery flaps that stretch along the arms, waist, and legs to create wings for gliding. A suit of wingwear has 3 charges. While you wear the suit, you can use a bonus action and expend 1 charge to gain a flying speed of 30 feet until you land. At the end of each of your turns, your altitude drops by 5 feet. Your altitude drops instantly to 0 feet at the end of your turn if you didn't fly at least 30 feet horizontally on that turn. When your altitude drops to 0 feet, you land (or fall), and you must expend another charge to use the suit again.
+
+The suit regains all of its expended charges after spending at least 1 hour in an elemental air node.
+
+_Source: Princes of the Apocalypse p. 223_
