@@ -1,0 +1,33 @@
+---
+publish: true
+aliases:
+  - Forest Shrine Adventures
+created: 2026-01-27T14:36:21.166+11:00
+modified: 2026-01-27T15:31:10.074+11:00
+tags:
+  - compendium/src/5e/mot
+cssclasses:
+  - json5e-note
+---
+
+# Forest Shrine Adventures
+
+_Source: Mythic Odysseys of Theros p. 158_
+
+**Forest Shrine Adventures**
+
+`dice: [](forest-shrine-adventures-mot.md#^forest-shrine-adventures)`
+
+| dice: d10 | Adventure Goal |
+|-----------|----------------|
+| 1 | Get permission from the shrine's [druids](compendium/bestiary/humanoid/druid.md) to take part in a sacred hunt with them. |
+| 2 | Prevent game hunters from killing a [unicorn](compendium/bestiary/celestial/unicorn.md), and lead the unicorn to a shrine for shelter. |
+| 3 | Find a [scout](compendium/bestiary/humanoid/scout.md) from the shrine who has gone missing. |
+| 4 | Escape a shrine after being captured and held there for crimes against the forest. |
+| 5 | Rescue trophy hunters being tortured at a shrine. |
+| 6 | Earn a [druid's](compendium/bestiary/humanoid/druid.md) trust to learn a valuable secret about the forest. |
+| 7 | Retrieve a sacred weapon held in the grove. |
+| 8 | Recruit the help of the shrine's [druids](compendium/bestiary/humanoid/druid.md) to defeat a group of poachers. |
+| 9 | Acquire a beast companion from the shrine. |
+| 10 | Defend the shrine from a group of [harpies](compendium/bestiary/monstrosity/harpy.md). |
+^forest-shrine-adventures

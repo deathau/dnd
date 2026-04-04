@@ -1,0 +1,31 @@
+---
+publish: true
+aliases:
+  - Dimir Villains
+created: 2026-01-27T14:36:21.244+11:00
+modified: 2026-01-27T15:31:10.185+11:00
+tags:
+  - compendium/src/5e/ggr
+cssclasses:
+  - json5e-note
+---
+
+# Dimir Villains
+
+_Source: Guildmasters' Guide to Ravnica p. 135_
+
+**Dimir Villains**
+
+`dice: [](dimir-villains-ggr.md#^dimir-villains)`
+
+| dice: d8 | Villain |
+|----------|---------|
+| 1 | A spy seeks to plunder another guild's secrets. |
+| 2 | A [mind mage](compendium/bestiary/humanoid/mind-mage-ggr.md) is hunting down everyone who witnessed a great humiliation to expunge their memories of the event. |
+| 3 | A [mind mage](compendium/bestiary/humanoid/mind-mage-ggr.md) has implanted false memories of a crime in many minds in order to incriminate someone. |
+| 4 | A group of Dimir agents is plundering the minds of people who have knowledge of a vault that holds great wealth or magical power. |
+| 5 | After a Dimir spy is unmasked, a [mind mage](compendium/bestiary/humanoid/mind-mage-ggr.md) erases the memory of the spy's identity from the minds of those involved. |
+| 6 | A shapeshifter has replaced a high-ranking member of another guild in order to provoke conflicts. |
+| 7 | A [mind drinker vampire](compendium/bestiary/undead/mind-drinker-vampire-ggr.md) is plundering the minds of its victims. |
+| 8 | Roll on another guild's villain table, but the villain is a disguised Dimir agent or someone being manipulated by the Dimir. |
+^dimir-villains

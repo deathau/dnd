@@ -1,0 +1,24 @@
+---
+publish: true
+aliases:
+  - Far Scribe
+created: 2026-01-27T14:36:20.467+11:00
+modified: 2026-01-27T15:31:08.858+11:00
+tags:
+  - compendium/src/5e/tce
+  - optional-feature/ei
+cssclasses:
+  - json5e-feat
+---
+
+# Far Scribe
+
+_Source: Tasha's Cauldron of Everything p. 71_
+
+**Prerequisite**: Level 5, Pact of the Tome
+
+A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
+
+You can cast the [sending](compendium/spells/sending.md) spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
+
+As an action, you can magically erase a name on the page by touching it.

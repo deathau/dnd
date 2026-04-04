@@ -1,0 +1,27 @@
+---
+publish: true
+aliases:
+  - Githyanki Raiding Parties; Raiding Party Transport
+created: 2026-01-27T14:36:21.207+11:00
+modified: 2026-01-27T15:31:10.127+11:00
+tags:
+  - compendium/src/5e/mtf
+cssclasses:
+  - json5e-note
+---
+
+# Githyanki Raiding Parties; Raiding Party Transport
+
+_Source: Mordenkainen's Tome of Foes p. 98_
+
+**Raiding Party Transport**
+
+`dice: [](githyanki-raiding-parties-raiding-party-transport-mtf.md#^raiding-party-transport)`
+
+| dice: d6 | Transport (with crew) |
+|----------|-----------------------|
+| 1-2 | One astral skiff carrying entire group |
+| 3-4 | Two astral skiffs, each carrying half of group |
+| 5 | Astral brig carrying entire group plus an additional 30 [githyanki warriors](compendium/bestiary/humanoid/githyanki-warrior.md) |
+| 6 | Planar raider carrying entire group plus an additional 60 [githyanki warriors](compendium/bestiary/humanoid/githyanki-warrior.md) |
+^raiding-party-transport

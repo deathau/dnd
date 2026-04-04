@@ -1,0 +1,27 @@
+---
+publish: true
+aliases:
+  - Half-Elf Parents
+created: 2026-01-27T14:36:21.168+11:00
+modified: 2026-01-27T15:31:10.077+11:00
+tags:
+  - compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+---
+
+# Half-Elf Parents
+
+_Source: Xanathar's Guide to Everything p. 62_
+
+**Half-Elf Parents**
+
+`dice: [](half-elf-parents-xge.md#^half-elf-parents)`
+
+| dice: d8 | Parents |
+|----------|---------|
+| 1-5 | One parent was an elf and the other was a human. |
+| 6 | One parent was an elf and the other was a half-elf. |
+| 7 | One parent was a human and the other was a half-elf. |
+| 8 | Both parents were half-elves. |
+^half-elf-parents

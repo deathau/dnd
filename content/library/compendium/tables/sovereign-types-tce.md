@@ -1,0 +1,29 @@
+---
+publish: true
+aliases:
+  - Sovereign Types
+created: 2026-01-27T14:36:21.196+11:00
+modified: 2026-01-27T15:31:10.109+11:00
+tags:
+  - compendium/src/5e/tce
+cssclasses:
+  - json5e-note
+---
+
+# Sovereign Types
+
+_Source: Tasha's Cauldron of Everything p. 100_
+
+**Sovereign Types**
+
+`dice: [](sovereign-types-tce.md#^sovereign-types)`
+
+| dice: d6 | Sovereign |
+|----------|-----------|
+| 1 | **Village Elder**. The wizened leader of a community offers both civic and moral leadership. |
+| 2 | **Young Noble**. An ambitious noble eagerly seeks to reform society to align with a personal vision. |
+| 3 | **Shipwrecked Governor**. A desperate leader struggles to keep people alive in a wilderness they're not prepared to endure. |
+| 4 | **Ruler Returned**. A tribe's revered leader has returned from the dead and seeks to resurrect their past glories. |
+| 5 | **Hidden Power**. A mysterious figure manipulates the nation's puppet leader and guides the government's true agenda. |
+| 6 | **True Regent**. The rightful heir to the throne struggles to reclaim power from a perfect impostor. |
+^sovereign-types
