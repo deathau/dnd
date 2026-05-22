@@ -1,0 +1,55 @@
+---
+publish: true
+aliases:
+  - Hybrid Flier
+created: 2026-01-27T15:31:08.523+11:00
+modified: 2026-01-27T16:05:46.820+11:00
+tags:
+  - compendium/src/5e/ggr
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/humanoid/simic-hybrid
+cssclasses:
+  - json5e-monster
+---
+
+# Hybrid Flier
+
+_Source: Guildmasters' Guide to Ravnica p. 217_
+
+## Simic Hybrids
+
+The Guardian Project is a consequence of increasing tension within the Simic Combine as the threat of interguild conflict looms. Believing that the Simic must be prepared to fight for their lives when that conflict comes to a head, biomancers have created soldiers to help defend the guild. These hybrids (also called guardians, after the name of the project) are created from human, vedalken, and elf guild members who volunteer to be transformed.
+
+```ad-statblock
+title: Hybrid Flier
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/GGR/Hybrid%20Flier.webp#token)
+*Medium humanoid (simic hybrid), Neutral Good*
+
+- **Armor Class** 13
+- **Hit Points** 39 (`6d8 + 12`)
+- **Speed** 30 ft., fly 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|16 (+3)|14 (+2)|11 (+0)|10 (+0)|11 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** passive Perception 10
+- **Damage Resistances** acid
+- **Gear** [javelin](compendium/items/javelin.md)
+- **Languages** Common plus any one language
+- **Challenge** 2
+
+## Actions
+
+***Multiattack.*** The hybrid makes two javelin attacks. It can replace one javelin attack with Spit Acid.
+
+***Javelin.*** *Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
+
+***Spit Acid.*** *Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit:* 10 (4d4) acid damage.
+```
+
+^statblock

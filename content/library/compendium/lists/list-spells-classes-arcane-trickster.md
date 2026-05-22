@@ -1,0 +1,247 @@
+---
+publish: true
+aliases:
+  - Spells for Arcane Trickster
+created: 2026-01-27T14:36:21.274+11:00
+modified: 2026-02-03T15:06:54.271+11:00
+tags:
+  - spell/list/subclass/arcane-trickster
+cssclasses:
+  - json5e-note
+---
+
+# Spells for Arcane Trickster
+
+## Cantrip
+
+- [Acid Splash](compendium/spells/acid-splash.md "PHB") at class level 3
+- [Blade Ward](compendium/spells/blade-ward.md "PHB") at class level 3
+- [Booming Blade](compendium/spells/booming-blade-tce.md "TCE") at class level 3
+- [Chill Touch](compendium/spells/chill-touch.md "PHB") at class level 3
+- [Control Flames](compendium/spells/control-flames-xge.md "XGE") at class level 3
+- [Create Bonfire](compendium/spells/create-bonfire-xge.md "XGE") at class level 3
+- [Dancing Lights](compendium/spells/dancing-lights.md "PHB") at class level 3
+- [Fire Bolt](compendium/spells/fire-bolt.md "PHB") at class level 3
+- [Friends](compendium/spells/friends.md "PHB") at class level 3
+- [Frostbite](compendium/spells/frostbite-xge.md "XGE") at class level 3
+- [Green-Flame Blade](compendium/spells/green-flame-blade-tce.md "TCE") at class level 3
+- [Gust](compendium/spells/gust-xge.md "XGE") at class level 3
+- [Infestation](compendium/spells/infestation-xge.md "XGE") at class level 3
+- [Light](compendium/spells/light.md "PHB") at class level 3
+- [Lightning Lure](compendium/spells/lightning-lure-tce.md "TCE") at class level 3
+- [Mage Hand](compendium/spells/mage-hand.md "PHB") at class level 3
+- [Mending](compendium/spells/mending.md "PHB") at class level 3
+- [Message](compendium/spells/message.md "PHB") at class level 3
+- [Mind Sliver](compendium/spells/mind-sliver-tce.md "TCE") at class level 3
+- [Minor Illusion](compendium/spells/minor-illusion.md "PHB") at class level 3
+- [Mold Earth](compendium/spells/mold-earth-xge.md "XGE") at class level 3
+- [Poison Spray](compendium/spells/poison-spray.md "PHB") at class level 3
+- [Prestidigitation](compendium/spells/prestidigitation.md "PHB") at class level 3
+- [Ray of Frost](compendium/spells/ray-of-frost.md "PHB") at class level 3
+- [Shape Water](compendium/spells/shape-water-xge.md "XGE") at class level 3
+- [Shocking Grasp](compendium/spells/shocking-grasp.md "PHB") at class level 3
+- [Sword Burst](compendium/spells/sword-burst-tce.md "TCE") at class level 3
+- [Thunderclap](compendium/spells/thunderclap-xge.md "XGE") at class level 3
+- [Toll the Dead](compendium/spells/toll-the-dead-xge.md "XGE") at class level 3
+- [True Strike](compendium/spells/true-strike.md "PHB") at class level 3
+
+## 1st Level
+
+- [Absorb Elements](compendium/spells/absorb-elements-xge.md "XGE") at class level 3
+- [Alarm](compendium/spells/alarm.md "PHB") at class level 3
+- [Burning Hands](compendium/spells/burning-hands.md "PHB") at class level 3
+- [Catapult](compendium/spells/catapult-xge.md "XGE") at class level 3
+- [Cause Fear](compendium/spells/cause-fear-xge.md "XGE") at class level 3
+- [Charm Person](compendium/spells/charm-person.md "PHB") at class level 3
+- [Chromatic Orb](compendium/spells/chromatic-orb.md "PHB") at class level 3
+- [Color Spray](compendium/spells/color-spray.md "PHB") at class level 3
+- [Comprehend Languages](compendium/spells/comprehend-languages.md "PHB") at class level 3
+- [Detect Magic](compendium/spells/detect-magic.md "PHB") at class level 3
+- [Disguise Self](compendium/spells/disguise-self.md "PHB") at class level 3
+- [Distort Value](compendium/spells/distort-value-ai.md "AI") at class level 3
+- [Earth Tremor](compendium/spells/earth-tremor-xge.md "XGE") at class level 3
+- [Expeditious Retreat](compendium/spells/expeditious-retreat.md "PHB") at class level 3
+- [False Life](compendium/spells/false-life.md "PHB") at class level 3
+- [Feather Fall](compendium/spells/feather-fall.md "PHB") at class level 3
+- [Find Familiar](compendium/spells/find-familiar.md "PHB") at class level 3
+- [Fog Cloud](compendium/spells/fog-cloud.md "PHB") at class level 3
+- [Frost Fingers](compendium/spells/frost-fingers-idrotf.md "IDRotF") at class level 3
+- [Grease](compendium/spells/grease.md "PHB") at class level 3
+- [Ice Knife](compendium/spells/ice-knife-xge.md "XGE") at class level 3
+- [Identify](compendium/spells/identify.md "PHB") at class level 3
+- [Illusory Script](compendium/spells/illusory-script.md "PHB") at class level 3
+- [Jim's Magic Missile](compendium/spells/jims-magic-missile-ai.md "AI") at class level 3
+- [Jump](compendium/spells/jump.md "PHB") at class level 3
+- [Longstrider](compendium/spells/longstrider.md "PHB") at class level 3
+- [Mage Armor](compendium/spells/mage-armor.md "PHB") at class level 3
+- [Magic Missile](compendium/spells/magic-missile.md "PHB") at class level 3
+- [Protection from Evil and Good](compendium/spells/protection-from-evil-and-good.md "PHB") at class level 3
+- [Ray of Sickness](compendium/spells/ray-of-sickness.md "PHB") at class level 3
+- [Shield](compendium/spells/shield.md "PHB") at class level 3
+- [Silent Image](compendium/spells/silent-image.md "PHB") at class level 3
+- [Silvery Barbs](compendium/spells/silvery-barbs-scc.md "SCC") at class level 3
+- [Sleep](compendium/spells/sleep.md "PHB") at class level 3
+- [Snare](compendium/spells/snare-xge.md "XGE") at class level 3
+- [Tasha's Caustic Brew](compendium/spells/tashas-caustic-brew-tce.md "TCE") at class level 3
+- [Tasha's Hideous Laughter](compendium/spells/tashas-hideous-laughter.md "PHB") at class level 3
+- [Tenser's Floating Disk](compendium/spells/tensers-floating-disk.md "PHB") at class level 3
+- [Thunderwave](compendium/spells/thunderwave.md "PHB") at class level 3
+- [Unseen Servant](compendium/spells/unseen-servant.md "PHB") at class level 3
+- [Witch Bolt](compendium/spells/witch-bolt.md "PHB") at class level 3
+
+## 2nd Level
+
+- [Aganazzar's Scorcher](compendium/spells/aganazzars-scorcher-xge.md "XGE") at class level 3
+- [Air Bubble](compendium/spells/air-bubble-aag.md "AAG") at class level 3
+- [Alter Self](compendium/spells/alter-self.md "PHB") at class level 3
+- [Arcane Lock](compendium/spells/arcane-lock.md "PHB") at class level 3
+- [Augury](compendium/spells/augury.md "PHB") at class level 3
+- [Blindness/Deafness](compendium/spells/blindness-deafness.md "PHB") at class level 3
+- [Blur](compendium/spells/blur.md "PHB") at class level 3
+- [Borrowed Knowledge](compendium/spells/borrowed-knowledge-scc.md "SCC") at class level 3
+- [Cloud of Daggers](compendium/spells/cloud-of-daggers.md "PHB") at class level 3
+- [Continual Flame](compendium/spells/continual-flame.md "PHB") at class level 3
+- [Crown of Madness](compendium/spells/crown-of-madness.md "PHB") at class level 3
+- [Darkness](compendium/spells/darkness.md "PHB") at class level 3
+- [Darkvision](compendium/spells/darkvision.md "PHB") at class level 3
+- [Detect Thoughts](compendium/spells/detect-thoughts.md "PHB") at class level 3
+- [Dragon's Breath](compendium/spells/dragons-breath-xge.md "XGE") at class level 3
+- [Dust Devil](compendium/spells/dust-devil-xge.md "XGE") at class level 3
+- [Earthbind](compendium/spells/earthbind-xge.md "XGE") at class level 3
+- [Enhance Ability](compendium/spells/enhance-ability.md "PHB") at class level 3
+- [Enlarge/Reduce](compendium/spells/enlarge-reduce.md "PHB") at class level 3
+- [Flaming Sphere](compendium/spells/flaming-sphere.md "PHB") at class level 3
+- [Flock of Familiars](compendium/spells/flock-of-familiars-llk.md "LLK") at class level 3
+- [Gentle Repose](compendium/spells/gentle-repose.md "PHB") at class level 3
+- [Gift of Gab](compendium/spells/gift-of-gab-ai.md "AI") at class level 3
+- [Gust of Wind](compendium/spells/gust-of-wind.md "PHB") at class level 3
+- [Hold Person](compendium/spells/hold-person.md "PHB") at class level 3
+- [Invisibility](compendium/spells/invisibility.md "PHB") at class level 3
+- [Jim's Glowing Coin](compendium/spells/jims-glowing-coin-ai.md "AI") at class level 3
+- [Kinetic Jaunt](compendium/spells/kinetic-jaunt-scc.md "SCC") at class level 3
+- [Knock](compendium/spells/knock.md "PHB") at class level 3
+- [Levitate](compendium/spells/levitate.md "PHB") at class level 3
+- [Locate Object](compendium/spells/locate-object.md "PHB") at class level 3
+- [Magic Mouth](compendium/spells/magic-mouth.md "PHB") at class level 3
+- [Magic Weapon](compendium/spells/magic-weapon.md "PHB") at class level 3
+- [Maximilian's Earthen Grasp](compendium/spells/maximilians-earthen-grasp-xge.md "XGE") at class level 3
+- [Melf's Acid Arrow](compendium/spells/melfs-acid-arrow.md "PHB") at class level 3
+- [Mind Spike](compendium/spells/mind-spike-xge.md "XGE") at class level 3
+- [Mirror Image](compendium/spells/mirror-image.md "PHB") at class level 3
+- [Misty Step](compendium/spells/misty-step.md "PHB") at class level 3
+- [Nathair's Mischief](compendium/spells/nathairs-mischief-ftd.md "FTD") at class level 3
+- [Nystul's Magic Aura](compendium/spells/nystuls-magic-aura.md "PHB") at class level 3
+- [Phantasmal Force](compendium/spells/phantasmal-force.md "PHB") at class level 3
+- [Pyrotechnics](compendium/spells/pyrotechnics-xge.md "XGE") at class level 3
+- [Ray of Enfeeblement](compendium/spells/ray-of-enfeeblement.md "PHB") at class level 3
+- [Rime's Binding Ice](compendium/spells/rimes-binding-ice-ftd.md "FTD") at class level 3
+- [Rope Trick](compendium/spells/rope-trick.md "PHB") at class level 3
+- [Scorching Ray](compendium/spells/scorching-ray.md "PHB") at class level 3
+- [See Invisibility](compendium/spells/see-invisibility.md "PHB") at class level 3
+- [Shadow Blade](compendium/spells/shadow-blade-xge.md "XGE") at class level 3
+- [Shatter](compendium/spells/shatter.md "PHB") at class level 3
+- [Skywrite](compendium/spells/skywrite-xge.md "XGE") at class level 3
+- [Snilloc's Snowball Swarm](compendium/spells/snillocs-snowball-swarm-xge.md "XGE") at class level 3
+- [Spider Climb](compendium/spells/spider-climb.md "PHB") at class level 3
+- [Spray of Cards](compendium/spells/spray-of-cards-bmt.md "BMT") at class level 3
+- [Suggestion](compendium/spells/suggestion.md "PHB") at class level 3
+- [Tasha's Mind Whip](compendium/spells/tashas-mind-whip-tce.md "TCE") at class level 3
+- [Vortex Warp](compendium/spells/vortex-warp-scc.md "SCC") at class level 3
+- [Warding Wind](compendium/spells/warding-wind-xge.md "XGE") at class level 3
+- [Web](compendium/spells/web.md "PHB") at class level 3
+- [Wither and Bloom](compendium/spells/wither-and-bloom-scc.md "SCC") at class level 3
+
+## 3rd Level
+
+- [Animate Dead](compendium/spells/animate-dead.md "PHB") at class level 3
+- [Antagonize](compendium/spells/antagonize-bmt.md "BMT") at class level 3
+- [Ashardalon's Stride](compendium/spells/ashardalons-stride-ftd.md "FTD") at class level 3
+- [Bestow Curse](compendium/spells/bestow-curse.md "PHB") at class level 3
+- [Blink](compendium/spells/blink.md "PHB") at class level 3
+- [Catnap](compendium/spells/catnap-xge.md "XGE") at class level 3
+- [Clairvoyance](compendium/spells/clairvoyance.md "PHB") at class level 3
+- [Counterspell](compendium/spells/counterspell.md "PHB") at class level 3
+- [Dispel Magic](compendium/spells/dispel-magic.md "PHB") at class level 3
+- [Enemies Abound](compendium/spells/enemies-abound-xge.md "XGE") at class level 3
+- [Erupting Earth](compendium/spells/erupting-earth-xge.md "XGE") at class level 3
+- [Fast Friends](compendium/spells/fast-friends-ai.md "AI") at class level 3
+- [Fear](compendium/spells/fear.md "PHB") at class level 3
+- [Feign Death](compendium/spells/feign-death.md "PHB") at class level 3
+- [Fireball](compendium/spells/fireball.md "PHB") at class level 3
+- [Flame Arrows](compendium/spells/flame-arrows-xge.md "XGE") at class level 3
+- [Fly](compendium/spells/fly.md "PHB") at class level 3
+- [Galder's Tower](compendium/spells/galders-tower-llk.md "LLK") at class level 3
+- [Gaseous Form](compendium/spells/gaseous-form.md "PHB") at class level 3
+- [Glyph of Warding](compendium/spells/glyph-of-warding.md "PHB") at class level 3
+- [Haste](compendium/spells/haste.md "PHB") at class level 3
+- [Hypnotic Pattern](compendium/spells/hypnotic-pattern.md "PHB") at class level 3
+- [Incite Greed](compendium/spells/incite-greed-ai.md "AI") at class level 3
+- [Intellect Fortress](compendium/spells/intellect-fortress-tce.md "TCE") at class level 3
+- [Leomund's Tiny Hut](compendium/spells/leomunds-tiny-hut.md "PHB") at class level 3
+- [Life Transference](compendium/spells/life-transference-xge.md "XGE") at class level 3
+- [Lightning Bolt](compendium/spells/lightning-bolt.md "PHB") at class level 3
+- [Magic Circle](compendium/spells/magic-circle.md "PHB") at class level 3
+- [Major Image](compendium/spells/major-image.md "PHB") at class level 3
+- [Melf's Minute Meteors](compendium/spells/melfs-minute-meteors-xge.md "XGE") at class level 3
+- [Nondetection](compendium/spells/nondetection.md "PHB") at class level 3
+- [Phantom Steed](compendium/spells/phantom-steed.md "PHB") at class level 3
+- [Protection from Energy](compendium/spells/protection-from-energy.md "PHB") at class level 3
+- [Remove Curse](compendium/spells/remove-curse.md "PHB") at class level 3
+- [Sending](compendium/spells/sending.md "PHB") at class level 3
+- [Sleet Storm](compendium/spells/sleet-storm.md "PHB") at class level 3
+- [Slow](compendium/spells/slow.md "PHB") at class level 3
+- [Speak with Dead](compendium/spells/speak-with-dead.md "PHB") at class level 3
+- [Spirit Shroud](compendium/spells/spirit-shroud-tce.md "TCE") at class level 3
+- [Stinking Cloud](compendium/spells/stinking-cloud.md "PHB") at class level 3
+- [Summon Fey](compendium/spells/summon-fey-tce.md "TCE") at class level 3
+- [Summon Lesser Demons](compendium/spells/summon-lesser-demons-xge.md "XGE") at class level 3
+- [Summon Shadowspawn](compendium/spells/summon-shadowspawn-tce.md "TCE") at class level 3
+- [Summon Undead](compendium/spells/summon-undead-tce.md "TCE") at class level 3
+- [Thunder Step](compendium/spells/thunder-step-xge.md "XGE") at class level 3
+- [Tidal Wave](compendium/spells/tidal-wave-xge.md "XGE") at class level 3
+- [Tiny Servant](compendium/spells/tiny-servant-xge.md "XGE") at class level 3
+- [Tongues](compendium/spells/tongues.md "PHB") at class level 3
+- [Vampiric Touch](compendium/spells/vampiric-touch.md "PHB") at class level 3
+- [Wall of Sand](compendium/spells/wall-of-sand-xge.md "XGE") at class level 3
+- [Wall of Water](compendium/spells/wall-of-water-xge.md "XGE") at class level 3
+- [Water Breathing](compendium/spells/water-breathing.md "PHB") at class level 3
+
+## 4th Level
+
+- [Arcane Eye](compendium/spells/arcane-eye.md "PHB") at class level 3
+- [Banishment](compendium/spells/banishment.md "PHB") at class level 3
+- [Blight](compendium/spells/blight.md "PHB") at class level 3
+- [Charm Monster](compendium/spells/charm-monster-xge.md "XGE") at class level 3
+- [Confusion](compendium/spells/confusion.md "PHB") at class level 3
+- [Conjure Minor Elementals](compendium/spells/conjure-minor-elementals.md "PHB") at class level 3
+- [Control Water](compendium/spells/control-water.md "PHB") at class level 3
+- [Dimension Door](compendium/spells/dimension-door.md "PHB") at class level 3
+- [Divination](compendium/spells/divination.md "PHB") at class level 3
+- [Elemental Bane](compendium/spells/elemental-bane-xge.md "XGE") at class level 3
+- [Evard's Black Tentacles](compendium/spells/evards-black-tentacles.md "PHB") at class level 3
+- [Fabricate](compendium/spells/fabricate.md "PHB") at class level 3
+- [Fire Shield](compendium/spells/fire-shield.md "PHB") at class level 3
+- [Galder's Speedy Courier](compendium/spells/galders-speedy-courier-llk.md "LLK") at class level 3
+- [Greater Invisibility](compendium/spells/greater-invisibility.md "PHB") at class level 3
+- [Hallucinatory Terrain](compendium/spells/hallucinatory-terrain.md "PHB") at class level 3
+- [Ice Storm](compendium/spells/ice-storm.md "PHB") at class level 3
+- [Leomund's Secret Chest](compendium/spells/leomunds-secret-chest.md "PHB") at class level 3
+- [Locate Creature](compendium/spells/locate-creature.md "PHB") at class level 3
+- [Mordenkainen's Faithful Hound](compendium/spells/mordenkainens-faithful-hound.md "PHB") at class level 3
+- [Mordenkainen's Private Sanctum](compendium/spells/mordenkainens-private-sanctum.md "PHB") at class level 3
+- [Otiluke's Resilient Sphere](compendium/spells/otilukes-resilient-sphere.md "PHB") at class level 3
+- [Phantasmal Killer](compendium/spells/phantasmal-killer.md "PHB") at class level 3
+- [Polymorph](compendium/spells/polymorph.md "PHB") at class level 3
+- [Raulothim's Psychic Lance](compendium/spells/raulothims-psychic-lance-ftd.md "FTD") at class level 3
+- [Sickening Radiance](compendium/spells/sickening-radiance-xge.md "XGE") at class level 3
+- [Spirit of Death](compendium/spells/spirit-of-death-bmt.md "BMT") at class level 3
+- [Stone Shape](compendium/spells/stone-shape.md "PHB") at class level 3
+- [Stoneskin](compendium/spells/stoneskin.md "PHB") at class level 3
+- [Storm Sphere](compendium/spells/storm-sphere-xge.md "XGE") at class level 3
+- [Summon Aberration](compendium/spells/summon-aberration-tce.md "TCE") at class level 3
+- [Summon Construct](compendium/spells/summon-construct-tce.md "TCE") at class level 3
+- [Summon Elemental](compendium/spells/summon-elemental-tce.md "TCE") at class level 3
+- [Summon Greater Demon](compendium/spells/summon-greater-demon-xge.md "XGE") at class level 3
+- [Vitriolic Sphere](compendium/spells/vitriolic-sphere-xge.md "XGE") at class level 3
+- [Wall of Fire](compendium/spells/wall-of-fire.md "PHB") at class level 3
+- [Watery Sphere](compendium/spells/watery-sphere-xge.md "XGE") at class level 3

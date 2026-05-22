@@ -1,0 +1,60 @@
+---
+publish: true
+aliases:
+  - Kobold Tinkerer
+created: 2026-01-27T15:31:08.581+11:00
+modified: 2026-01-27T16:05:46.882+11:00
+tags:
+  - compendium/src/5e/dosi
+  - monster/cr/1-4
+  - monster/size/small
+  - monster/type/humanoid
+cssclasses:
+  - json5e-monster
+---
+
+# Kobold Tinkerer
+
+_Source: Dragons of Stormwreck Isle p. 43_
+
+Kobolds are reptilian Humanoids that often revere dragons. Physically weak, they find strength in numbers.
+
+A few kobolds are born with leathery wings and can fly, which is often seen as a gift from dragon gods.
+
+```ad-statblock
+title: Kobold Tinkerer
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/DoSI/Kobold%20Tinkerer.webp#token)
+*Small humanoid, Any alignment*
+
+- **Armor Class** 12
+- **Hit Points** 10 (`3d6`)
+- **Speed** 30 ft., fly 10 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 7 (-2)|14 (+2)|10 (+0)|15 (+2)| 7 (-2)| 9 (-1)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Arcana](rules/skills.md#Arcana) +4, [Perception](rules/skills.md#Perception) +0
+- **Senses** [darkvision](rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Gear** [dagger](compendium/items/dagger.md)
+- **Languages** Common, Draconic
+- **Challenge** 1/4
+
+## Traits
+
+***Inquiring Mind (1/Day).*** The kobold can cast [detect magic](compendium/spells/detect-magic.md), requiring no spell components and using Intelligence as the spellcasting ability.
+
+***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#Incapacitated).
+
+***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
+
+## Actions
+
+***Dagger.*** *Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+
+***Alchemical Flame (Recharge 6).*** The kobold unleashes fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed saving throw, or half as much damage on a successful one.
+```
+
+^statblock

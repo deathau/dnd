@@ -1,0 +1,25 @@
+---
+publish: true
+aliases:
+  - Takhisis
+created: 2026-01-27T14:36:20.471+11:00
+modified: 2026-01-27T15:31:08.386+11:00
+tags:
+  - compendium/src/5e/dsotdq
+  - deity/dragonlance
+cssclasses:
+  - json5e-deity
+---
+
+# Takhisis
+
+_Source: Dragonlance: Shadow of the Dragon Queen p. 18_
+![Symbols Left to Right: Tak...](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/deities/DSotDQ/016-00-035.evil-god-symbols.webp#symbol "Symbols Left to Right: Takhisis, Chemosh, and Hiddukel")
+
+- **Alignment**: Lawful Evil
+- **Category**: Evil
+- **Pantheon**: Dragonlance
+- **Province**: Evil dragons, hatred, night
+- **Symbol**: Spiral of five dragon claws
+
+Takhisis, leader of Krynn's evil gods, is known as the Dragon Queen, the Queen of Darkness, and—on other worlds—Tiamat. She is the god of power, pride, and control, as well as the queen of chromatic dragons. She tempts mortals to her service with offers of dominance over others. Barred from Krynn since before the Cataclysm, she found her chance to return in the centuries that followed. She sometimes appears as a powerful human warrior with gleaming armor and long black hair, but her true form is a five-headed dragon.

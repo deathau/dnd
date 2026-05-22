@@ -1,0 +1,29 @@
+---
+publish: true
+aliases:
+  - Nyxborn Statistics; Nyxborn Traits
+created: 2026-01-27T14:36:21.196+11:00
+modified: 2026-01-27T15:31:10.109+11:00
+tags:
+  - compendium/src/5e/mot
+cssclasses:
+  - json5e-note
+---
+
+# Nyxborn Statistics; Nyxborn Traits
+
+_Source: Mythic Odysseys of Theros p. 203_
+
+**Nyxborn Traits**
+
+`dice: [](nyxborn-statistics-nyxborn-traits-mot.md#^nyxborn-traits)`
+
+| dice: d6 | Trait |
+|----------|-------|
+| 1 | **Magic Resistance**. The creature's Nyxborn nature gives it advantage on saving throws against spells and other magical effects. |
+| 2 | **Light Sensitivity**. A creature of the night sky, the Nyxborn has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight, while it is in bright light. |
+| 3 | **Immutable Form**. The Nyxborn creature is the philosophical ideal of its kind. It is immune to any spell or effect that would alter its form. |
+| 4 | **Magic Weapons**. The Nyxborn creature's weapon attacks are magical. |
+| 5 | **Nyx Step**. The Nyxborn can move through other creatures and objects as if they were difficult terrain. It takes `dice:1d10\|noform\|noparens\|avg\|text(5)` (`1d10`) force damage if it ends its turn inside an object. |
+| 6 | **Starlight Form**. The Nyxborn glows with the soft light of the night sky, shedding dim light in a 15-foot radius. |
+^nyxborn-traits

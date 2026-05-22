@@ -1,0 +1,27 @@
+---
+publish: true
+aliases:
+  - Half-Orc Parents
+created: 2026-01-27T14:36:21.220+11:00
+modified: 2026-01-27T15:31:10.159+11:00
+tags:
+  - compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+---
+
+# Half-Orc Parents
+
+_Source: Xanathar's Guide to Everything p. 62_
+
+**Half-Orc Parents**
+
+`dice: [](half-orc-parents-xge.md#^half-orc-parents)`
+
+| dice: d8 | Parents |
+|----------|---------|
+| 1-3 | One parent was an orc and the other was a human. |
+| 4-5 | One parent was an orc and the other was a half-orc. |
+| 6-7 | One parent was a human and the other was a half-orc. |
+| 8 | Both parents were half-orcs. |
+^half-orc-parents

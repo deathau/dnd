@@ -1,0 +1,27 @@
+---
+publish: true
+aliases:
+  - Solution; Remembered Names
+created: 2026-01-27T14:36:21.222+11:00
+modified: 2026-01-27T15:31:10.163+11:00
+tags:
+  - compendium/src/5e/tce
+cssclasses:
+  - json5e-note
+---
+
+# Solution; Remembered Names
+
+_Source: Tasha's Cauldron of Everything p. 187_
+
+**Remembered Names**
+
+| Alcove | Name | Letter |
+|--------|------|--------|
+| 1 | Sam | S |
+| 2 | Delia | E |
+| 3 | Fifi | F |
+| 4 | Tobias | I |
+| 5 | Johana | N |
+| 6 | Alexia | A |
+^remembered-names

@@ -1,0 +1,34 @@
+---
+publish: true
+aliases:
+  - Gnoll
+created: 2026-01-27T14:36:20.435+11:00
+modified: 2026-01-27T15:31:07.834+11:00
+tags:
+  - compendium/src/5e/dmg
+  - race/gnoll
+cssclasses:
+  - json5e-race
+---
+
+# Gnoll
+
+_Source: Dungeon Master's Guide p. 282_
+
+- **Ability Scores**: str +2 int -2
+- **Size**: Medium
+- **Speed**: 30 ft.
+
+## Traits
+
+### Bite
+
+Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+
+### Darkvision
+
+You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+### Rampage
+
+When you reduce a creature to 0 hit points with a melee attack on your turn, you can take a bonus action to move up to half your speed and make a bite attack.

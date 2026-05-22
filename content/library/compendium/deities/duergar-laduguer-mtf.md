@@ -1,0 +1,30 @@
+---
+publish: true
+aliases:
+  - Laduguer
+created: 2026-01-27T14:36:20.524+11:00
+modified: 2026-01-27T15:31:08.977+11:00
+tags:
+  - compendium/src/5e/mtf
+  - deity/duergar
+  - domain/death
+  - domain/forge
+cssclasses:
+  - json5e-deity
+---
+
+# Laduguer
+
+_Source: Mordenkainen's Tome of Foes p. 79_
+
+- **Alignment**: Lawful Evil
+- **Domains**: Death, Forge
+- **Pantheon**: Duergar
+- **Province**: Labor, slavery
+- **Symbol**: Broken arrow
+
+Also known as the Grim One, Laduguer was a mighty duergar warrior who liberated his people from the illithids. Laduguer entered into a pact with Asmodeus, pledging the duergar to an alliance against Lolth and the demons of the Abyss in exchange for which Laduguer received a spark of divinity from Abbathor himself.
+
+Laduguer's teachings stand in direct opposition to everything Moradin represents. He is the dwarf god's dark opposite, a shadow that seeks to rise up and consume its original creator.
+
+Duergar don't worship Laduguer in any traditional way; their communities include no temples or formal services. They honor their deity by acquiring more power and wealth through any means possible. Priests of Laduguer maintain the internal functions of duergar society but have no role that is expressly religious.

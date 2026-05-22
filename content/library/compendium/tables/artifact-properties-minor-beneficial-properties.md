@@ -1,0 +1,32 @@
+---
+publish: true
+aliases:
+  - Artifact Properties; Minor Beneficial Properties
+created: 2026-01-27T14:36:21.243+11:00
+modified: 2026-01-27T15:31:10.184+11:00
+tags:
+  - compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+---
+
+# Artifact Properties; Minor Beneficial Properties
+
+_Source: Dungeon Master's Guide p. 219_
+
+**Minor Beneficial Properties**
+
+`dice: [](artifact-properties-minor-beneficial-properties.md#^minor-beneficial-properties)`
+
+| dice: d100 | Property |
+|------------|----------|
+| 01-20 | While attuned to the artifact, you gain proficiency in one skill of the DM's choice. |
+| 21-30 | While attuned to the artifact, you are immune to disease. |
+| 31-40 | While attuned to the artifact, you can't be [charmed](rules/conditions.md#Charmed) or [frightened](rules/conditions.md#Frightened). |
+| 41-50 | While attuned to the artifact, you have resistance against one damage type of the DM's choice. |
+| 51-60 | While attuned to the artifact, you can use an action to cast one cantrip (chosen by the DM) from it. |
+| 61-70 | While attuned to the artifact, you can use an action to cast one 1st-level spell (chosen by the DM) from it. After you cast the spell, roll a `dice:d6\|noform\|noparens\|avg` (`d6`). On a roll of 1-5, you can't cast it again until the next dawn. |
+| 71-80 | As 61-70 above, except the spell is 2nd level. |
+| 81-90 | As 61-70 above, except the spell is 3rd level. |
+| 91-00 | While attuned to the artifact, you gain a +1 bonus to Armor Class. |
+^minor-beneficial-properties
