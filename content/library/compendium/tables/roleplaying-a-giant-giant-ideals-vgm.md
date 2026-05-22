@@ -1,0 +1,29 @@
+---
+publish: true
+aliases:
+  - Roleplaying a Giant; Giant Ideals
+created: 2026-01-27T14:36:21.197+11:00
+modified: 2026-01-27T15:31:10.110+11:00
+tags:
+  - compendium/src/5e/vgm
+cssclasses:
+  - json5e-note
+---
+
+# Roleplaying a Giant; Giant Ideals
+
+_Source: Volo's Guide to Monsters p. 23_
+
+**Giant Ideals**
+
+`dice: [](roleplaying-a-giant-giant-ideals-vgm.md#^giant-ideals)`
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | The Ordning. Annam created the ordning for the good of all giants, and it's our duty to uphold his vision. (Lawful) |
+| 2 | Skill. What sets my clan apart is its mastery of our traditional crafts. (Good) |
+| 3 | Strength. No other race can match the strength of giants, and none should dare to try. (Evil) |
+| 4 | Lordship. Giants are the rightful rulers of the world. All will be well when our empire is restored. (Neutral) |
+| 5 | Tribute. The lesser races owe giants not just respect but payment of tribute, and what they don't pay willingly, we will take by force. (Chaotic) |
+| 6 | Religion. Of Annam's many sons, none is greater than my patron deity. (Any) |
+^giant-ideals

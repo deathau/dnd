@@ -1,0 +1,27 @@
+---
+publish: true
+aliases:
+  - A Dragon's Curse; Breaking a Hoard Curse
+created: 2026-01-27T14:36:21.207+11:00
+modified: 2026-01-27T15:31:10.127+11:00
+tags:
+  - compendium/src/5e/ftd
+cssclasses:
+  - json5e-note
+---
+
+# A Dragon's Curse; Breaking a Hoard Curse
+
+_Source: Fizban's Treasury of Dragons p. 68_
+
+**Breaking a Hoard Curse**
+
+`dice: [](a-dragons-curse-breaking-a-hoard-curse-ftd.md#^breaking-a-hoard-curse)`
+
+| dice: d4 | Rite Elements |
+|----------|---------------|
+| 1 | Cast the [hallow](compendium/spells/hallow.md) spell |
+| 2 | Make an offering of blood from everyone who participated in killing the dragon (or those creatures' nearest kin) |
+| 3 | Bathe or sprinkle the treasure in the dragon's blood |
+| 4 | Make a sacrifice to Bahamut, Tiamat, or both |
+^breaking-a-hoard-curse

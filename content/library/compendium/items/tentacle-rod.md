@@ -1,0 +1,25 @@
+---
+publish: true
+aliases:
+  - Tentacle Rod
+created: 2026-01-27T14:36:20.608+11:00
+modified: 2026-01-27T15:31:09.139+11:00
+tags:
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/rod
+cssclasses:
+  - json5e-item
+---
+
+# Tentacle Rod
+
+_Rod, major, rare (requires attunement)_
+
+- **Weight**: 2.0 lbs.
+
+Made by the [drow](compendium/bestiary/humanoid/drow.md), this rod is a magic weapon that ends in three rubbery tentacles. While holding the rod, you can use an action to direct each tentacle to attack a creature you can see within 15 feet of you. Each tentacle makes a melee attack roll with a +9 bonus. On a hit, the tentacle deals `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage. If you hit a target with all three tentacles, it must make a DC 15 Constitution saving throw. On a failure, the creature's speed is halved, it has disadvantage on Dexterity saving throws, and it can't use reactions for 1 minute. Moreover, on each of its turns, it can take either an action or a bonus action, but not both. At the end of each of its turns, it can repeat the saving throw, ending the effect on itself on a success.
+
+_Source: Dungeon Master's Guide p. 208_

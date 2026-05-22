@@ -1,0 +1,35 @@
+---
+publish: true
+aliases:
+  - Sun Temple Adventures
+created: 2026-01-27T14:36:21.167+11:00
+modified: 2026-01-27T15:31:10.075+11:00
+tags:
+  - compendium/src/5e/mot
+cssclasses:
+  - json5e-note
+---
+
+# Sun Temple Adventures
+
+_Source: Mythic Odysseys of Theros p. 130_
+
+**Sun Temple Adventures**
+
+`dice: [](sun-temple-adventures-mot.md#^sun-temple-adventures)`
+
+| dice: d12 | Adventure Goal |
+|-----------|----------------|
+| 1 | Acquire an artifact used by a legendary hero. |
+| 2 | Defend a hero being honored in a ceremony from an assassination attempt. |
+| 3 | Acquire the remains of a legendary hero from the temple's crypts so the person can be resurrected. |
+| 4 | Prevent a wedding from taking place, so the couple's union doesn't fulfill an ominous prophecy. |
+| 5 | Expose a celebrated hero as a fraud. |
+| 6 | Learn the sins of a person seeking religious counsel. |
+| 7 | Find out who among a crowd of people gathered at the temple murdered a priest. |
+| 8 | Disperse a mob of people who blame Heliod and his clergy for a long drought. |
+| 9 | Defend the temple's worshipers from followers of Mogis assaulting the building. |
+| 10 | Offer Heliod a burnt sacrifice to gain his blessing. |
+| 11 | Offer Heliod a mass sacrifice to prevent him from smiting a nearby settlement. |
+| 12 | Find a hero's firsthand account of a battle with a unique monster among the temple's records before a rival group of adventurers does. |
+^sun-temple-adventures

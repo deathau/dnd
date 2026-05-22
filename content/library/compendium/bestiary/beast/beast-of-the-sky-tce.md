@@ -1,0 +1,50 @@
+---
+publish: true
+aliases:
+  - Beast of the Sky
+created: 2026-01-27T15:31:09.050+11:00
+modified: 2026-01-27T16:05:47.398+11:00
+tags:
+  - compendium/src/5e/tce
+  - monster/cr/
+  - monster/size/small
+  - monster/type/beast
+cssclasses:
+  - json5e-monster
+---
+
+# Beast of the Sky
+
+_Source: Tasha's Cauldron of Everything p. 61_
+
+```ad-statblock
+title: Beast of the Sky
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/TCE/Beast%20of%20the%20Sky.webp#token)
+*Small beast, Neutral*
+
+
+- **Speed** 10 ft., fly 60 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 (-2)|16 (+3)|13 (+1)| 8 (-1)|14 (+2)|11 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [darkvision](rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Languages** understands the languages you speak
+- **Challenge** 
+
+## Traits
+
+***Flyby.*** The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+
+***Primal Bond.*** You can add your proficiency bonus to any ability check or saving throw that the beast makes.
+
+## Actions
+
+***Shred.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 1d4 + 3 + PB slashing damage.
+```
+
+^statblock

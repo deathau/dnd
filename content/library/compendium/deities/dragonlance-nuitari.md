@@ -1,0 +1,25 @@
+---
+publish: true
+aliases:
+  - Nuitari
+created: 2026-01-27T14:36:20.387+11:00
+modified: 2026-01-27T15:31:07.770+11:00
+tags:
+  - compendium/src/5e/dsotdq
+  - deity/dragonlance
+cssclasses:
+  - json5e-deity
+---
+
+# Nuitari
+
+_Source: Dragonlance: Shadow of the Dragon Queen p. 19_
+![Symbols Left to Right: Mor...](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/deities/DSotDQ/017-00-040.o-evil-trio.webp#symbol "Symbols Left to Right: Morgion, Nuitari, and Sargonnas")
+
+- **Alignment**: Lawful Evil
+- **Category**: Evil
+- **Pantheon**: Dragonlance
+- **Province**: Evil magic
+- **Symbol**: Black circle or sphere
+
+Nuitari, the god of evil magic and darkness, is patron of the Mages of High Sorcery's Order of the Black Robes and other wicked mages. He encourages selfish and destructive magic. His power flows through the black moon that shares his name, which is visible only due to the stars it blocks in the sky.

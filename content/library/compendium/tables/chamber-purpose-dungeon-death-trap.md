@@ -1,0 +1,29 @@
+---
+publish: true
+aliases:
+  - "Chamber Purpose; Dungeon: Death Trap"
+created: 2026-01-27T14:36:21.205+11:00
+modified: 2026-01-27T15:31:10.124+11:00
+tags:
+  - compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+---
+
+# Chamber Purpose; Dungeon: Death Trap
+
+_Source: Dungeon Master's Guide p. 292_
+
+**Dungeon: Death Trap**
+
+`dice: [](chamber-purpose-dungeon-death-trap.md#^dungeon-death-trap)`
+
+| dice: d20 | Purpose |
+|-----------|---------|
+| 1 | Antechamber or waiting room for spectators |
+| 2-8 | Guardroom fortified against intruders |
+| 9-11 | Vault for holding important treasures, accessible only by locked or secret door (75 percent chance of being trapped) |
+| 12-14 | Room containing a puzzle that must be solved to bypass a trap or monster |
+| 15-19 | Trap designed to kill or capture creatures |
+| 20 | Observation room, allowing guards or spectators to observe creatures moving through the dungeon |
+^dungeon-death-trap

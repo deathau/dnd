@@ -1,0 +1,95 @@
+---
+publish: true
+aliases:
+  - Spells for Strixhaven Initiate
+created: 2026-01-27T14:36:21.269+11:00
+modified: 2026-01-27T15:31:10.225+11:00
+tags:
+  - spell/list/feat/strixhaven-initiate
+cssclasses:
+  - json5e-note
+---
+
+# Spells for Strixhaven Initiate
+
+## Cantrip
+
+- [Chill Touch](compendium/spells/chill-touch.md "PHB")
+- [Druidcraft](compendium/spells/druidcraft.md "PHB")
+- [Fire Bolt](compendium/spells/fire-bolt.md "PHB")
+- [Guidance](compendium/spells/guidance.md "PHB")
+- [Light](compendium/spells/light.md "PHB")
+- [Mage Hand](compendium/spells/mage-hand.md "PHB")
+- [Prestidigitation](compendium/spells/prestidigitation.md "PHB")
+- [Ray of Frost](compendium/spells/ray-of-frost.md "PHB")
+- [Sacred Flame](compendium/spells/sacred-flame.md "PHB")
+- [Spare the Dying](compendium/spells/spare-the-dying.md "PHB")
+- [Thaumaturgy](compendium/spells/thaumaturgy.md "PHB")
+- [Vicious Mockery](compendium/spells/vicious-mockery.md "PHB")
+
+## 1st Level
+
+- [Absorb Elements](compendium/spells/absorb-elements-xge.md "XGE")
+- [Alarm](compendium/spells/alarm.md "PHB")
+- [Animal Friendship](compendium/spells/animal-friendship.md "PHB")
+- [Bane](compendium/spells/bane.md "PHB")
+- [Beast Bond](compendium/spells/beast-bond-xge.md "XGE")
+- [Bless](compendium/spells/bless.md "PHB")
+- [Burning Hands](compendium/spells/burning-hands.md "PHB")
+- [Catapult](compendium/spells/catapult-xge.md "XGE")
+- [Cause Fear](compendium/spells/cause-fear-xge.md "XGE")
+- [Ceremony](compendium/spells/ceremony-xge.md "XGE")
+- [Chaos Bolt](compendium/spells/chaos-bolt-xge.md "XGE")
+- [Charm Person](compendium/spells/charm-person.md "PHB")
+- [Chromatic Orb](compendium/spells/chromatic-orb.md "PHB")
+- [Color Spray](compendium/spells/color-spray.md "PHB")
+- [Command](compendium/spells/command.md "PHB")
+- [Comprehend Languages](compendium/spells/comprehend-languages.md "PHB")
+- [Create or Destroy Water](compendium/spells/create-or-destroy-water.md "PHB")
+- [Cure Wounds](compendium/spells/cure-wounds.md "PHB")
+- [Detect Evil and Good](compendium/spells/detect-evil-and-good.md "PHB")
+- [Detect Magic](compendium/spells/detect-magic.md "PHB")
+- [Detect Poison and Disease](compendium/spells/detect-poison-and-disease.md "PHB")
+- [Disguise Self](compendium/spells/disguise-self.md "PHB")
+- [Dissonant Whispers](compendium/spells/dissonant-whispers.md "PHB")
+- [Distort Value](compendium/spells/distort-value-ai.md "AI")
+- [Earth Tremor](compendium/spells/earth-tremor-xge.md "XGE")
+- [Entangle](compendium/spells/entangle.md "PHB")
+- [Expeditious Retreat](compendium/spells/expeditious-retreat.md "PHB")
+- [Faerie Fire](compendium/spells/faerie-fire.md "PHB")
+- [False Life](compendium/spells/false-life.md "PHB")
+- [Feather Fall](compendium/spells/feather-fall.md "PHB")
+- [Find Familiar](compendium/spells/find-familiar.md "PHB")
+- [Fog Cloud](compendium/spells/fog-cloud.md "PHB")
+- [Frost Fingers](compendium/spells/frost-fingers-idrotf.md "IDRotF")
+- [Goodberry](compendium/spells/goodberry.md "PHB")
+- [Grease](compendium/spells/grease.md "PHB")
+- [Guiding Bolt](compendium/spells/guiding-bolt.md "PHB")
+- [Healing Word](compendium/spells/healing-word.md "PHB")
+- [Heroism](compendium/spells/heroism.md "PHB")
+- [Ice Knife](compendium/spells/ice-knife-xge.md "XGE")
+- [Identify](compendium/spells/identify.md "PHB")
+- [Illusory Script](compendium/spells/illusory-script.md "PHB")
+- [Inflict Wounds](compendium/spells/inflict-wounds.md "PHB")
+- [Jim's Magic Missile](compendium/spells/jims-magic-missile-ai.md "AI")
+- [Jump](compendium/spells/jump.md "PHB")
+- [Longstrider](compendium/spells/longstrider.md "PHB")
+- [Mage Armor](compendium/spells/mage-armor.md "PHB")
+- [Magic Missile](compendium/spells/magic-missile.md "PHB")
+- [Protection from Evil and Good](compendium/spells/protection-from-evil-and-good.md "PHB")
+- [Purify Food and Drink](compendium/spells/purify-food-and-drink.md "PHB")
+- [Ray of Sickness](compendium/spells/ray-of-sickness.md "PHB")
+- [Sanctuary](compendium/spells/sanctuary.md "PHB")
+- [Shield](compendium/spells/shield.md "PHB")
+- [Shield of Faith](compendium/spells/shield-of-faith.md "PHB")
+- [Silent Image](compendium/spells/silent-image.md "PHB")
+- [Silvery Barbs](compendium/spells/silvery-barbs-scc.md "SCC")
+- [Sleep](compendium/spells/sleep.md "PHB")
+- [Snare](compendium/spells/snare-xge.md "XGE")
+- [Speak with Animals](compendium/spells/speak-with-animals.md "PHB")
+- [Tasha's Caustic Brew](compendium/spells/tashas-caustic-brew-tce.md "TCE")
+- [Tasha's Hideous Laughter](compendium/spells/tashas-hideous-laughter.md "PHB")
+- [Tenser's Floating Disk](compendium/spells/tensers-floating-disk.md "PHB")
+- [Thunderwave](compendium/spells/thunderwave.md "PHB")
+- [Unseen Servant](compendium/spells/unseen-servant.md "PHB")
+- [Witch Bolt](compendium/spells/witch-bolt.md "PHB")
