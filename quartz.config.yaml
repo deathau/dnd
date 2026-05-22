@@ -203,6 +203,7 @@ plugins:
         - publish
         - created
         - unlisted
+        - cssclasses
       hidePropertiesView: false
       delimiters: ---
       language: yaml
