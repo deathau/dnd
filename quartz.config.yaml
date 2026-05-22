@@ -200,6 +200,9 @@ plugins:
       excludedProperties: 
         - title
         - modified
+        - publish
+        - created
+        - unlisted
       hidePropertiesView: false
       delimiters: ---
       language: yaml
