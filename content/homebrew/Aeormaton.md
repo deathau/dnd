@@ -1,1 +1,1 @@
-See https://www.dandwiki.com/wiki/Automaton\_(5e\_Race)
+See <https://www.dandwiki.com/wiki/Automaton_(5e_Race)>

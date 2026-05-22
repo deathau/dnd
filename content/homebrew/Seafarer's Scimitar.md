@@ -1,5 +1,3 @@
-# Seafarer's Scimitar
-
 _Magical melee weapon_
 
 **Slot:** Off-Hand

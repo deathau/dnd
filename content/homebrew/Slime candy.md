@@ -1,1 +1,1 @@
-Become [[Plasmoid]] for 10 minutes
+Become [[plasmoid-aag|Plasmoid]] for 10 minutes

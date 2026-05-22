@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2024-11-06T16:26:48.187+11:00
-modified: 2024-11-06T16:26:48.187+11:00
+modified: 2026-05-22T16:20:32.151+10:00
 tags:
   - item/gear/tools
   - compendium/src/5e/homebrew
@@ -11,8 +11,6 @@ tags:
 cssclasses:
   - json5e-item
 ---
-
-# Hunter's Coat
 
 _Wondrous Item (requires attunement)_
 
