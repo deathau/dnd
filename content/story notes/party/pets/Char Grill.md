@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Char
-created: 2026-02-05T10:21:07.543+11:00
-modified: 2026-04-04T13:45:16.173+11:00
+created: 2026-02-04T23:21:07.543Z
+modified: 2026-04-04T02:45:16.173Z
 ---
 
 > [!metadata]

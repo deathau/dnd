@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Faerun
   - Toril
-created: 2026-02-05T10:32:24.318+11:00
-modified: 2026-02-05T10:38:05.534+11:00
+created: 2026-02-04T23:32:24.318Z
+modified: 2026-02-04T23:38:05.534Z
 ---
 
 The planet where we started our adventure.

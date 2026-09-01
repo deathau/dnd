@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-05-22T16:51:38.245+10:00
-modified: 2026-05-22T17:00:03.325+10:00
+created: 2026-05-22T06:51:38.245Z
+modified: 2026-05-22T07:00:03.325Z
 cssclasses:
   - json5e-monster
 ---

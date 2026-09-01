@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-05-21T14:11:20.020+10:00
-modified: 2026-05-22T17:00:32.490+10:00
+created: 2026-05-21T04:11:20.020Z
+modified: 2026-05-22T07:00:32.490Z
 cssclasses:
   - json5e-race
 ---

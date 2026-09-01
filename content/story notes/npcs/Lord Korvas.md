@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Vampire Daddy
   - Telfore Korvas
-created: 2026-01-27T15:52:23.497+11:00
-modified: 2026-04-04T13:54:36.981+11:00
+created: 2026-01-27T04:52:23.497Z
+modified: 2026-04-04T02:54:36.981Z
 ---
 
 > [!metadata]

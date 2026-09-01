@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Flint
-created: 2026-05-21T14:28:51.514+10:00
-modified: 2026-05-22T10:35:57.737+10:00
+created: 2026-05-21T04:28:51.514Z
+modified: 2026-05-22T00:35:57.737Z
 ---
 
 > [!metadata]

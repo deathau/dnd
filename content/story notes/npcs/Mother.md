@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Mother Sphinx
-created: 2026-05-21T14:33:24.094+10:00
-modified: 2026-05-21T14:36:48.716+10:00
+created: 2026-05-21T04:33:24.094Z
+modified: 2026-05-21T04:36:48.716Z
 ---
 
 > [!metadata]

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2024-11-06T16:26:48.187+11:00
-modified: 2026-05-22T16:20:32.151+10:00
+created: 2024-11-06T05:26:48.187Z
+modified: 2026-05-22T06:20:32.151Z
 tags:
   - item/gear/tools
   - compendium/src/5e/homebrew
