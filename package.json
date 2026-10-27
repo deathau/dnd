@@ -52,7 +52,7 @@
     "lightningcss": "^1.33.0",
     "micromorph": "^0.4.5",
     "minimatch": "^10.2.6",
-    "preact": "^11.0.1",
+    "preact": "^10.29.0",
     "preact-render-to-string": "^6.8.1",
     "pretty-bytes": "^7.2.0",
     "pretty-time": "^1.1.0",
@@ -73,7 +73,7 @@
   },
   "devDependencies": {
     "@quartz-community/types": "github:quartz-community/types",
-    "@quartz-community/utils": "github:quartz-community/utils",
+    "@quartz-community/utils": "^1.0.1",
     "@types/hast": "^3.0.5",
     "@types/node": "^26.6.5",
     "@types/pretty-time": "^1.1.5",
