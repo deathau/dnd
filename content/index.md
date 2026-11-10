@@ -2,7 +2,7 @@
 publish: true
 title: D&D
 created: 2026-04-04T02:23:44.555Z
-modified: 2026-10-27T21:26:21.014Z
+modified: 2026-11-10T10:18:46.306Z
 ---
 
 # Sessions
@@ -17,3 +17,4 @@ modified: 2026-10-27T21:26:21.014Z
 - [[2026-07-21]] — The Scorched Serpent race, from sandstorm to the oasis drake
 - [[2026-09-01]] — Slaying the Elder Maelstrom and claiming the celestial compass
 - [[2026-10-27]] — From Desert Trial to Celestial Workshop
+- [[2026-11-10]] — Exploring the Workshop and powering up
