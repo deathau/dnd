@@ -196,7 +196,8 @@ plugins:
     enabled: true
     options:
       includeAll: true
-      includedProperties: []
+      includedProperties:
+        - race
       excludedProperties: 
         - title
         - modified
